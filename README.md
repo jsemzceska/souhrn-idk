@@ -1,2 +1,0 @@
-# souhrn-idk
-/
